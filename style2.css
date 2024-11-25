@@ -1,0 +1,33 @@
+.succ {
+    display: inline-block;
+    border: 4px solid;
+    border-radius: 20px;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+
+}
+footer{color: white;
+text-align: center;
+padding-top: 210px;
+}
+.img {
+    margin: 0px;
+    border-radius: 50%;
+
+}
+
+.tt {
+    padding-left: 59px;
+margin: 0;
+border-radius: 30%;
+
+}
+.t2{
+    border-radius: 50%;
+}
+body{
+    background-color: black;
+}
